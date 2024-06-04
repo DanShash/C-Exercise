@@ -1,6 +1,3 @@
-Sure, here's a `README.md` file for your C++ program using a generic vector:
-
-```markdown
 # Generic Vector in C++
 
 This repository contains a C++ program that demonstrates the use of a template class for a generic vector. The program includes methods to push elements into the vector, retrieve the last element, and print all elements with a specific precision.
@@ -88,9 +85,4 @@ int main() {
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bugs, suggestions, or improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This `README.md` file provides a comprehensive overview of your program, including its purpose, usage instructions, and the complete code.
